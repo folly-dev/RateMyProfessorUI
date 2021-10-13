@@ -1,0 +1,18 @@
+.label {
+  margin-left: 40px;
+  font-size: 20px;
+  position: absolute;
+  color: rgb(12, 11, 11);
+}
+.section-name {
+  margin-left: 60px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 16px;
+  white-space: normal;
+  line-height: 5px;
+  flex-basis: 100%;
+  align-items: center;
+  z-index: 1;
+  margin-top: 1px;
+}
